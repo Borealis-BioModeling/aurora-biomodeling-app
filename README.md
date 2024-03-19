@@ -1,2 +1,3 @@
-# aurora-biomodeling-app
-Python-based web app for biomodel construction, simulation, and analysis.
+# Aurora BioModeling App
+
+The _Aurora BioModeling App_ is a Python-based web app for bio-model construction, simulation, and analysis.
